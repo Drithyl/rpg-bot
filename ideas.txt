@@ -1,0 +1,3 @@
+- Each Discord server can have X buildings or businesses that can craft items based on skills
+- Players can see and visit such server buildings to acquire things from them
+- Matches can be done with Bot mediating results through DMs, without direct contact
